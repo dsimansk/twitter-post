@@ -5,6 +5,3 @@ flows:
     uri: twitter-mention
   - kind: endpoint
     uri: http-post
-    hostname: kitchensink-service
-    path: /mirror/post
-    scheme: http
